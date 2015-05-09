@@ -33,7 +33,7 @@
 
 #include <mtdev-mapping.h>
 #include <mtdev-plumbing.h>
-#include <malloc.h>
+#include <stdlib.h>
 #include <string.h>
 #include <errno.h>
 
